@@ -7,8 +7,8 @@ matplotlib==3.7.2
 scipy
 opencv-python
 pillow
-pyinstaller==5.13.0
-pymongo==4.3.3
+pyinstaller==6.10.0
+pymongo==4.6.3
 pyqt6
 virtualbox
 pyyaml
@@ -18,12 +18,12 @@ xlib
 xlrd
 lmfit
 openpyxl
-numexpr==2.8.4
+numexpr==2.8.5
 fastapi==0.101.1
 tensorflow
 tqdm
 seaborn
-PyJWT==1.7.0
+PyJWT==2.10.1
 flask_jwt_extended
 fastapi_auth
 uvicorn==0.23.2
